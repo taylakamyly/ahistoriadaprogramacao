@@ -7,7 +7,7 @@ body{
 /* usa esse para colocar comentario no css*/
 h1{
     color:blue;
-    text-align:right;
+    text-align:left;
     font: size 60px;
 }
 .texto{
